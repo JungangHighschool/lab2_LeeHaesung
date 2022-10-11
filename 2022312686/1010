@@ -1,4 +1,0 @@
-break *0x401769
-break *0x401745
-break *0x40174b
-break *0x40174e
